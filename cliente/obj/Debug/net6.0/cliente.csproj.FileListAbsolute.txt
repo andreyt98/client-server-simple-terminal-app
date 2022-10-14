@@ -1,0 +1,15 @@
+C:\Users\andre\Desktop\cliente-servidor-simple\cliente\bin\Debug\net6.0\cliente.exe
+C:\Users\andre\Desktop\cliente-servidor-simple\cliente\bin\Debug\net6.0\cliente.deps.json
+C:\Users\andre\Desktop\cliente-servidor-simple\cliente\bin\Debug\net6.0\cliente.runtimeconfig.json
+C:\Users\andre\Desktop\cliente-servidor-simple\cliente\bin\Debug\net6.0\cliente.dll
+C:\Users\andre\Desktop\cliente-servidor-simple\cliente\bin\Debug\net6.0\cliente.pdb
+C:\Users\andre\Desktop\cliente-servidor-simple\cliente\obj\Debug\net6.0\cliente.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\cliente-servidor-simple\cliente\obj\Debug\net6.0\cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\cliente-servidor-simple\cliente\obj\Debug\net6.0\cliente.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\cliente-servidor-simple\cliente\obj\Debug\net6.0\cliente.AssemblyInfo.cs
+C:\Users\andre\Desktop\cliente-servidor-simple\cliente\obj\Debug\net6.0\cliente.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\cliente-servidor-simple\cliente\obj\Debug\net6.0\cliente.dll
+C:\Users\andre\Desktop\cliente-servidor-simple\cliente\obj\Debug\net6.0\refint\cliente.dll
+C:\Users\andre\Desktop\cliente-servidor-simple\cliente\obj\Debug\net6.0\cliente.pdb
+C:\Users\andre\Desktop\cliente-servidor-simple\cliente\obj\Debug\net6.0\cliente.genruntimeconfig.cache
+C:\Users\andre\Desktop\cliente-servidor-simple\cliente\obj\Debug\net6.0\ref\cliente.dll
